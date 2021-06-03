@@ -4,7 +4,7 @@
 <div class="card card-primary">
   <div class="card-header"><h4>Login</h4></div>
 
-{{-- MENCOBA UBAH DARI LAPTOP ILMA yang kedua --}}
+{{-- MENCOBA UBAH DARI LAPTOP ILMA yang ke3 --}}
   <div class="card-body">
     <form method="POST" action="{{ route('login') }}">
         @csrf
